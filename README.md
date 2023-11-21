@@ -7,13 +7,17 @@ Deployed Link : ([https://wanderworld.vercel.app/](https://wanderworld.vercel.ap
 Welcome to our project! This is a travel website made with the help of techstacks such as HTML, CSS and Javascript. The website allows users to  easily login, logout, book tourist spots and make payments in the website without any flutter or delay. We hope you enjoy and we look forward to your contributions!
 
 - **Home Page:** The landing page of the website.
+- 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/434djyk1sszuwfarbeky.jpg)
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kqrs8206kxu3muhk4fix.jpg)
+
 - **Explore:** Browse through a list of destination spots with pagination and search functionality.
 -**About:** Learn more about Trippy Time and its mission.
 - **Contact:** Find contact information to get in touch with our team.
 - **Sign-up & Login:** User authentication for personalized experiences.
 
 - ### Blogs: Here the user can view some of the blogs of certain destination spots
+- 
 - ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vo8fz78tbleefuji07bn.jpg)
 
 ### Explore Destination Spots
@@ -33,4 +37,4 @@ Welcome to our project! This is a travel website made with the help of techstack
 - Users interested in a destination spot can click on the "Book Now" button.
 - Payment options: Netbanking, UPI, and card payments.
 - After successful payment, users are redirected to the home page.
-![Image description]()
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/usph7c9w616ofgw7jxfm.jpg)
